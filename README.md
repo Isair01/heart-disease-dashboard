@@ -3,7 +3,7 @@
 This Tableau dashboard explores heart disease patterns using a real-world dataset.  
 It visualizes how age, cholesterol levels, and other factors relate to heart disease prevalence.
 
-![Heart Disease Dashboard](Heart Disease Risk Explorer.png)
+[![Heart Disease Dashboard](https://github.com/Isair01/heart-disease-dashboard/blob/main/Heart%20Disease%20Risk%20Explorer.png)
 
 ## Key Features:
 - Cleaned and filtered cholesterol data (
